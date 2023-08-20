@@ -4,7 +4,9 @@ Mono alphabetic substitution cipher
 # Overview
 Some random concept/collection of tools to help solve cryptograms.
 
+
 # PreReqs
+Some tools use [alimony's cipher_solver](https://github.com/alimony/cipher_solver)
 `pip install cipher_solver`
 
 # Usages
